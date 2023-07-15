@@ -15,5 +15,3 @@ struct testApp: App {
         }
     }
 }
-
-//qwe
